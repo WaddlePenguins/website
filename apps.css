@@ -1,0 +1,170 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/Waddle_On_Party_Town_2.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 568px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  margin: 1px 1071px 0 -80px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 0 0 0 100px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: -6px 194px 0 233px;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 98px;
+  width: 98px;
+  margin: 20px auto 0 179px;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 98px;
+  width: 98px;
+  margin: -98px auto 0 401px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 13px 617px 0 163px;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 211px 386px 1px -80px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 530px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-right: 813px;
+    margin-left: -39px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 94px;
+    margin-left: 133px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 63px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-left: 306px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 517px;
+    margin-left: 63px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: auto;
+    margin: 174px 245px 0 -39px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 566px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 585px;
+    margin-left: -51px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 7px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 20px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-left: 249px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 360px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 664px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 408px;
+    margin-left: -38px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: 408px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-right: 172px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 180px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 794px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-right: 218px;
+    margin-left: -24px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-right: 13px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-right: 0;
+    margin-left: -24px;
+  }
+}
